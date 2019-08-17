@@ -1,2 +1,5 @@
-# PCAAndMDSInR
-Exploration into multidimensional scaling (MDS) and principal component analysis (PCA) In R.
+# Unsupervised Learning: Principle Component Analysis and Multidmentional Scalling
+This repo contains the code for a paper that presents multidimensional scaling (MDS) and principle component analysis (PCA) as two methods for conducting unsupervised learning to identify patterns and visualize hidden information in higher dimensional data sets. MDS was performed on UN country data to identify different ways to quantify a countries level of development. A one dimensional solution was presented to rank countries aggregate development. Two dimensional representations were also performed which included a selection of different clustering algorithms to group countries. PCA was used to analyze national track record data. This process involved outlining a number of different visualizations to reveal hidden patterns within the dataset and represent the information in two dimensions. Additionally, a Cos2 analysis was performed to quantify the quality of the model.
+
+Live versions of the code can be found [here](./Question1.html) and [here](./Question2.html) 🔥🔥🔥🔥.
+
